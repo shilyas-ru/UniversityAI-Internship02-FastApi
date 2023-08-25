@@ -10,7 +10,8 @@ This is a test of the FastAPI framework.
 
 ## <b><i>Описание:</i></b>
 Запуск сервера: uvicorn main:app --reload
-http://127.0.0.1:8000
+
+Адрес для сайта в инете: http://127.0.0.1:8000
 
 Действующие ссылки можно посмотреть: http://127.0.0.1:8000/docs
 
